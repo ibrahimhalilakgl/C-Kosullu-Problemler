@@ -2,7 +2,7 @@
 
 int main(){
 
-    int sayi1, sayi2, sayi3, kucuksayi; // Üç sayı ve en küçük sayıyı tutmak için değişkenler tanımlanıyor
+    int sayi1, sayi2, sayi3, kucuksayi; // Üç sayı ve en küçük sayıyı tutmak için değişkenler tanımlıyoruz
 
     printf("Lutfen Ilk Sayiyi Giriniz: "); // Kullanıcıdan ilk sayıyı girmesini istiyoruz
     scanf("%d", &sayi1); // Girilen sayı 'sayi1' değişkenine atıyoruz
@@ -26,5 +26,5 @@ int main(){
 
     printf("Girilen En Kucuk Sayi: %d", kucuksayi); // En küçük sayıyı yazdırıyoruz
 
-    return 0; // Programın başarıyla sona erdiğini belirtiyoruz
+    return 0; // Programın başarıyla sonlandırıyoruz
 }
