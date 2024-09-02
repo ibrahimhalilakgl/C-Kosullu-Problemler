@@ -54,7 +54,7 @@
         </li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
             <a href="https://github.com/ibrahimhalilakgl/C-Kosullu-Problemler/blob/main/problem9.c" style="text-decoration: none; color: #333; font-weight: bold;">
-                Girilen 4 Sayının Ortalamadan Büyük/Eşit/Küçük Olduğunu Bulma
+                Girilen 4 Sayının Ortalamadan Büyük/Küçük Olduğunu Bulma
             </a>
         </li>
         <li style="background: #e2e2e2; margin: 5px 0; padding: 10px; border-radius: 5px;">
